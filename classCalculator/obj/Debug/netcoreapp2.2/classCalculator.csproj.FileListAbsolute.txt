@@ -1,0 +1,14 @@
+C:\Users\Max-Student\source\repos\classCalculator\classCalculator\bin\Debug\netcoreapp2.2\classCalculator.deps.json
+C:\Users\Max-Student\source\repos\classCalculator\classCalculator\bin\Debug\netcoreapp2.2\classCalculator.runtimeconfig.json
+C:\Users\Max-Student\source\repos\classCalculator\classCalculator\bin\Debug\netcoreapp2.2\classCalculator.runtimeconfig.dev.json
+C:\Users\Max-Student\source\repos\classCalculator\classCalculator\bin\Debug\netcoreapp2.2\classCalculator.dll
+C:\Users\Max-Student\source\repos\classCalculator\classCalculator\bin\Debug\netcoreapp2.2\classCalculator.pdb
+C:\Users\Max-Student\source\repos\classCalculator\classCalculator\bin\Debug\netcoreapp2.2\classCalculatorLibraryProject.dll
+C:\Users\Max-Student\source\repos\classCalculator\classCalculator\bin\Debug\netcoreapp2.2\classCalculatorLibraryProject.pdb
+C:\Users\Max-Student\source\repos\classCalculator\classCalculator\obj\Debug\netcoreapp2.2\classCalculator.csprojAssemblyReference.cache
+C:\Users\Max-Student\source\repos\classCalculator\classCalculator\obj\Debug\netcoreapp2.2\classCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Max-Student\source\repos\classCalculator\classCalculator\obj\Debug\netcoreapp2.2\classCalculator.AssemblyInfoInputs.cache
+C:\Users\Max-Student\source\repos\classCalculator\classCalculator\obj\Debug\netcoreapp2.2\classCalculator.AssemblyInfo.cs
+C:\Users\Max-Student\source\repos\classCalculator\classCalculator\obj\Debug\netcoreapp2.2\classCalculator.csproj.CopyComplete
+C:\Users\Max-Student\source\repos\classCalculator\classCalculator\obj\Debug\netcoreapp2.2\classCalculator.dll
+C:\Users\Max-Student\source\repos\classCalculator\classCalculator\obj\Debug\netcoreapp2.2\classCalculator.pdb

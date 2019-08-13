@@ -1,0 +1,17 @@
+C:\Users\Max-Student\source\repos\classCalculator\ClassCalculatorProject\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Max-Student\source\repos\classCalculator\ClassCalculatorProject\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Max-Student\source\repos\classCalculator\ClassCalculatorProject\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Max-Student\source\repos\classCalculator\ClassCalculatorProject\bin\Debug\netcoreapp2.2\classCalculatorTestProject.deps.json
+C:\Users\Max-Student\source\repos\classCalculator\ClassCalculatorProject\bin\Debug\netcoreapp2.2\classCalculatorTestProject.runtimeconfig.json
+C:\Users\Max-Student\source\repos\classCalculator\ClassCalculatorProject\bin\Debug\netcoreapp2.2\classCalculatorTestProject.runtimeconfig.dev.json
+C:\Users\Max-Student\source\repos\classCalculator\ClassCalculatorProject\bin\Debug\netcoreapp2.2\classCalculatorTestProject.dll
+C:\Users\Max-Student\source\repos\classCalculator\ClassCalculatorProject\bin\Debug\netcoreapp2.2\classCalculatorTestProject.pdb
+C:\Users\Max-Student\source\repos\classCalculator\ClassCalculatorProject\bin\Debug\netcoreapp2.2\classCalculatorLibraryProject.dll
+C:\Users\Max-Student\source\repos\classCalculator\ClassCalculatorProject\bin\Debug\netcoreapp2.2\classCalculatorLibraryProject.pdb
+C:\Users\Max-Student\source\repos\classCalculator\ClassCalculatorProject\obj\Debug\netcoreapp2.2\classCalculatorTestProject.csprojAssemblyReference.cache
+C:\Users\Max-Student\source\repos\classCalculator\ClassCalculatorProject\obj\Debug\netcoreapp2.2\classCalculatorTestProject.csproj.CoreCompileInputs.cache
+C:\Users\Max-Student\source\repos\classCalculator\ClassCalculatorProject\obj\Debug\netcoreapp2.2\classCalculatorTestProject.AssemblyInfoInputs.cache
+C:\Users\Max-Student\source\repos\classCalculator\ClassCalculatorProject\obj\Debug\netcoreapp2.2\classCalculatorTestProject.AssemblyInfo.cs
+C:\Users\Max-Student\source\repos\classCalculator\ClassCalculatorProject\obj\Debug\netcoreapp2.2\classCalculatorTestProject.csproj.CopyComplete
+C:\Users\Max-Student\source\repos\classCalculator\ClassCalculatorProject\obj\Debug\netcoreapp2.2\classCalculatorTestProject.dll
+C:\Users\Max-Student\source\repos\classCalculator\ClassCalculatorProject\obj\Debug\netcoreapp2.2\classCalculatorTestProject.pdb

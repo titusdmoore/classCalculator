@@ -1,0 +1,116 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Max-Student\\source\\repos\\classCalculator\\classCalculator\\classCalculator.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Max-Student\\source\\repos\\classCalculator\\classCalculatorLibraryProject\\classCalculatorLibraryProject.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Max-Student\\source\\repos\\classCalculator\\classCalculatorLibraryProject\\classCalculatorLibraryProject.csproj",
+        "projectName": "classCalculatorLibraryProject",
+        "projectPath": "C:\\Users\\Max-Student\\source\\repos\\classCalculator\\classCalculatorLibraryProject\\classCalculatorLibraryProject.csproj",
+        "packagesPath": "C:\\Users\\Max-Student\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Max-Student\\source\\repos\\classCalculator\\classCalculatorLibraryProject\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Max-Student\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Users\\Max-Student\\source\\repos\\classCalculator\\classCalculator\\classCalculator.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Max-Student\\source\\repos\\classCalculator\\classCalculator\\classCalculator.csproj",
+        "projectName": "classCalculator",
+        "projectPath": "C:\\Users\\Max-Student\\source\\repos\\classCalculator\\classCalculator\\classCalculator.csproj",
+        "packagesPath": "C:\\Users\\Max-Student\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Max-Student\\source\\repos\\classCalculator\\classCalculator\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Max-Student\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "C:\\Users\\Max-Student\\source\\repos\\classCalculator\\classCalculatorLibraryProject\\classCalculatorLibraryProject.csproj": {
+                "projectPath": "C:\\Users\\Max-Student\\source\\repos\\classCalculator\\classCalculatorLibraryProject\\classCalculatorLibraryProject.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
